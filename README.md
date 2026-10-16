@@ -4,10 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=900&height=44&lines=I%E2%80%99m%20your%20partner%20in%20crime%20in%20building%20well-crafted%2C%20maintainable%20software" alt="Typing headlines" />
-</p>
-
 ### 🛠️ Tech Stack
 
 <p align="left">
